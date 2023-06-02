@@ -6,7 +6,7 @@ import building from "./Images1/building.jpg"
 function Home() {
   return (
     <>
-    <div className="home-container">
+    <div className="home-container bg-blue-50 pt-12">
       <div className="home-paragraph-1">
       <div className="left-container">
         <p>Welcome to Kosi Model School. Established in the year 2008, it is located at No.18 Grace avenue Elelenwo road in Obio Akpo L.G.A of Rivers State. Its motto is wisdom, knowledge and Excellence. The school is owned by an individual. Our level of education is mainly Nursery and primary, we are co-educational school
