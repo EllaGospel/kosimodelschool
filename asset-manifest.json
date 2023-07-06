@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/kosimodelschool/static/css/main.e8e0043e.css",
-    "main.js": "/kosimodelschool/static/js/main.40e864dd.js",
+    "main.js": "/kosimodelschool/static/js/main.80bf2adf.js",
     "static/media/prenursery.jpg": "/kosimodelschool/static/media/prenursery.7ce1f7f72e66218c0470.jpg",
     "static/media/building.jpg": "/kosimodelschool/static/media/building.5b3f2dbde0721c963180.jpg",
     "static/media/Library.jpg": "/kosimodelschool/static/media/Library.a36244752cf2252ec926.jpg",
     "index.html": "/kosimodelschool/index.html",
     "main.e8e0043e.css.map": "/kosimodelschool/static/css/main.e8e0043e.css.map",
-    "main.40e864dd.js.map": "/kosimodelschool/static/js/main.40e864dd.js.map"
+    "main.80bf2adf.js.map": "/kosimodelschool/static/js/main.80bf2adf.js.map"
   },
   "entrypoints": [
     "static/css/main.e8e0043e.css",
-    "static/js/main.40e864dd.js"
+    "static/js/main.80bf2adf.js"
   ]
 }
