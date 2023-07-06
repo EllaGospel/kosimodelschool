@@ -3,8 +3,8 @@ import logo from "./Images/logo.jpg"
 
 function Nav() {
   return (
-    <ul className=" bg-blue-50 flex gap-2 pl-1 pt-4 md:gap-20 lg:gap-28 xl:gap-28 2xl:gap-28" >
-      <img className="nav-display-figure lg:h-24 lg:w-24" src={logo} alt=" school logo"/>
+    <ul className=" bg-blue-50  flex gap-2 pt-4 md:gap-20 lg:gap-20 xl:gap-20 2xl:gap-20" >
+      <img className="nav-display-figure w-14 md:w-20 lg:w-20 lg:pl-7 xl:w-20 xl:pl-7 2xl:w-24 2xl:pl-7 md:pl-7" src={logo} alt=" school logo"/>
       <a className="nav-items" href="/">
         <li className="navlist-item mt-2" >Home</li>
       </a>

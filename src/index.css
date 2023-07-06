@@ -3,7 +3,32 @@
 @tailwind utilities;
 
 
-*{
+.home-paragraph-1{
+    color: rgb(110, 110, 213);
+}
+.nav-items{
+    color:  rgb(110, 110, 213);
+}
+.nav-items,.nav-items{
+    margin-left: 10px;
+}
+@media(width:425px){
+    .nav-display-figure{
+        padding-left: 7px;
+    }
+}
+
+.about{
+    color: rgb(110, 110, 213);
+    height: 100%;
+}
+.School-Pledge,.School-Anthem,.Vision-Statement,.Mission-statement{
+    font-style: italic;
+}
+
+
+
+/* *{
     margin: 0;
     padding: 0;
 }
@@ -48,7 +73,7 @@
     
 }
 
-
+ */
     
 
 
