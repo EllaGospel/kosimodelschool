@@ -40,6 +40,7 @@ tourism. We build pupils who are outstanding in academics, values and religion. 
                </div>
 
           </div>
+          <div>Parents Testimonies</div>
 
          
     </>
